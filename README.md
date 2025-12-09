@@ -17,5 +17,5 @@ Includes:
 Would import as a PowerShell module.
 
 ```PowerShell
-Import-Module .\powershell-lib
+Import-Module .\lib.ps1
 ```
